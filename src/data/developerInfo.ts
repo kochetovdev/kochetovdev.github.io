@@ -33,7 +33,7 @@ export const developerInfo: TDeveloperInfo = {
       position: "Front-End Developer",
       previewSrc: ProjectSrc2,
       duration: "6 months",
-      href: "https://trade-crm-fe-git-feat-tooltip-romans-projects-e135da3f.vercel.app/login",
+      href: "https://trade-crm-fe.vercel.app/login",
       description:
         "Trade-CRM is a robust and flexible platform designed to help businesses efficiently manage their operations while providing their services in a highly accessible and user-friendly manner. It simplifies customer interactions and ensures smooth communication between specialists and clients. With powerful tools and a high degree of customization, the platform can adapt to businesses of all sizes and industries.",
       technologies:
